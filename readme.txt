@@ -18,14 +18,16 @@ Add Clipix "Save" Button to your posts in minutes!
 == Installation ==
 
 Admin Search
+
 1. In your Admin, go to menu Plugins > Add.
 1. Search for "Clipix"
-1. Find the plugin that's labeled Clipix "Save" Button 
+1. Find the plugin that's labeled Clipix "Save" Button.
 1. Click to install.
 1. Activate the plugin.
 1. A new menu item "Save Button"  will appear in the main menu.
 
 Download & Upload
+
 1. Download the plugin (a zip file) on the right column of this page.
 1. In your Admin, go to menu Plugins > Add.
 1. Select the tab "Upload".
