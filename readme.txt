@@ -1,5 +1,5 @@
 === Clipix "Save" Button ===
-Contributors: ChoonHonh Kim
+Contributors: Clipix.com
 Tags: clipix, save button, save
 Requires at least: 3.9
 Tested up to: 4.2
@@ -13,25 +13,31 @@ Add a Clipix "Save" Button to your site and get your visitors to save and come b
 
 No need to copy and paste code throughout your WordPress site.
 
-Add a simple Clipix "Save" Button to your posts in minutes!
-
+Add Clipix "Save" Button to your posts in minutes!
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+Admin Search
+1. In your Admin, go to menu Plugins > Add.
+1. Search for "Clipix"
+1. Find the plugin that's labeled Clipix "Save" Button 
+1. Click to install.
+1. Activate the plugin.
+1. A new menu item "Save Button"  will appear in the main menu.
 
-1. Download the plugin.
+Download & Upload
+1. Download the plugin (a zip file) on the right column of this page.
 1. In your Admin, go to menu Plugins > Add.
 1. Select the tab "Upload".
 1. Upload the .zip file you just downloaded.
 1. Activate the plugin.
-
+1. A new menu item "Save Button" will appear in the main menu.
 
 == Frequently Asked Questions ==
 
 = What's Clipix? =
 
-Clipix is an unbelievably useful tool that lets you save and organize everything you see online, and offline, into one central place. Everything you save is called a "clip". Clips are placed onto your personal clipboards for anything imaginable; articles you want to read, gift ideas, comparison shopping, home decorating¨Cthe possibilities are literally endless. It¡¯s free, fun, and changing the way we organize our lives!
+Clipix is an unbelievably useful tool that lets you save and organize everything you see online, and offline, into one central place. Everything you save is called a "clip". Clips are placed onto your personal clipboards for anything imaginable; articles you want to read, gift ideas, comparison shopping, home decorating &ndash; the possibilities are literally endless. It's free, fun, and changing the way we organize our lives!
 
 == Changelog ==
 
