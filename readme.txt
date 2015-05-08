@@ -11,9 +11,9 @@ Add a Clipix "Save" Button to your site and get your visitors to save and come b
 
 == Description ==
 
-No need to copy and paste code throughout your WordPress site.
+This plug in lets you easily add a "Save" button to your website, for articles, products or content. Once a visitor has saved your content or products they'll be much more likely to come back! Simply install the plugin, and choose where you'd like it to appear. 
 
-Add Clipix "Save" Button to your posts in minutes!
+Clipix.com: Save everything you care about, organized in one place, accessible from anywhere.
 
 == Installation ==
 
@@ -40,6 +40,10 @@ Download & Upload
 = What's Clipix? =
 
 Clipix is an unbelievably useful tool that lets you save and organize everything you see online, and offline, into one central place. Everything you save is called a "clip". Clips are placed onto your personal clipboards for anything imaginable; articles you want to read, gift ideas, comparison shopping, home decorating &ndash; the possibilities are literally endless. It's free, fun, and changing the way we organize our lives!
+
+Questions? Need Assistance? 
+
+Contact Us: "devsupport@clipix.com"
 
 == Changelog ==
 
