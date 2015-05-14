@@ -1,0 +1,48 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#icon-clipix-32 {
+	background: transparent url('../assets/clipix_icon32.png') no-repeat;
+}
+
+/* Layout the page similar to the built-in post edit screen. */
+#clipix-settings {
+	margin-right: 310px;
+}
+
+#clipix-settings-content {
+	width: 100%;
+	float: left;
+}
+
+#clipix-settings-sidebar {
+	float: right;
+	margin-right: -310px;
+	width: 290px;
+}
+
+#clipix-settings-sidebar .centered {
+	text-align: center;
+}
+
+#clipix-settings-sidebar .button-large {
+	font-size: 17px;
+	line-height: 30px;
+	height: 32px;
+}
+
+#clipix-settings-sidebar .last-blurb {
+	font-size: 17px;
+}
+
+/* postbox overrides */
+#clipix-settings-sidebar .sidebar-container .postbox .inside,
+#clipix-settings-sidebar .sidebar-container .postbox .inside ul {
+	margin-bottom: 0;
+}
+
+/* Admin pages styles */
+.clipix-checkbox-label,
+.clipix-radio-label {
+	margin: .25em 0 .5em !important;
+	display: block;
+}
