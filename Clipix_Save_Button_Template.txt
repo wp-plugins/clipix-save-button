@@ -2,4 +2,16 @@
 <div id='ClipixWidgetApiContainer' cobrand='32'></div>
 
 <!-- Place this code in the head section of your page or before the close body tag -->
-<script id='ClipixWidgetApiScript' type='text/javascript' src="//widget.clipix.com/ScriptWidget.js?version=1.5&counter=on&iconType=61&language=en&shape=horizontal"></script>
+<script type="text/javascript">
+    var _cxWidget = _cxWidget || [];
+    _cxWidget.push(['version', '1.5']);
+    _cxWidget.push(['counter', 'on']);
+    _cxWidget.push(['language', '{ln}']);
+    _cxWidget.push(['iconType', '6{opt}']);
+    _cxWidget.push(['shape', 'horizontal']);
+    (function () {
+        var cxw = document.createElement('script'); cxw.type = 'text/javascript'; cxw.async = true;
+        cxw.src = '//widget.clipix.com/ScriptWidget.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cxw, s);
+    })();
+</script>
